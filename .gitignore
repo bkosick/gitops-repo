@@ -1,0 +1,3 @@
+#Ignore stuff
+.terraform*
+terraform.tfstate*
