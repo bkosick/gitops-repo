@@ -10,4 +10,7 @@ flux bootstrap github \
   --repository=gitops-repo \
   --branch=main \
   --path=./flux2/ \
-  --personal
+  --private=false \
+  --personal=true \
+  --token-auth
+

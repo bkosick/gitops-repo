@@ -1,0 +1,20 @@
+---
+global:
+  hosts:
+    domain:  example.com
+  redis:
+    host: dumbbberrerr-dev.h13gei.ng.0001.usw2.cache.amazonaws.com
+    serviceName: redis
+    port: 6379
+#    password:
+#      enabled: true
+#      secret: gitlab-redis
+#      key: redis-password
+    scheme:
+
+redis:
+  install: false
+
+certmanager-issuer:
+  email:  bkosick@example.com
+
